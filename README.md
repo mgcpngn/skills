@@ -75,6 +75,7 @@ skills/
 │   └── receiving-code-review/
 │
 ├── git-workflow/                    # Git 工作流
+│   ├── github-workflow/             # GitHub 完整交互 (gh CLI)
 │   ├── using-git-worktrees/
 │   └── finishing-dev-branch/
 │
@@ -145,6 +146,7 @@ Process Skills 指导 HOW，Tool Skills 提供 WHAT：
 | `test-driven-development` | 写新功能、修 bug、重构 |
 | `systematic-debugging` | 任何技术问题调试 |
 | `verification-before-completion` | 声称完成前必须验证 |
+| `github-workflow` | GitHub 仓库创建、PR、发布 |
 
 ### Tool Skills
 
